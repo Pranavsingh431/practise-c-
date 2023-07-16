@@ -2,7 +2,7 @@
 using namespace std;
 /*
 function can be defined as a well defined thing which contains some commands
-which we can use in a simple way like
+which we can use in a simple way like-
 let y = f(x) = a+b
 now if we use this predefined function for natural numbers it will display
 all the values of a+b in natural numbers.
