@@ -6,7 +6,7 @@ int main(){//it is the main function in which we write our code.
    cout << "number2" << endl;
    cout << "number3" << endl;//everyline ending with a semicolon is called statement.
 /*
-this is a multiline comment also know as (block comment).
+this is a multiline comment also known as (block comment).
 like this
 and this.
 std stands for standard maybe means standard syntax to write a code in c++.
